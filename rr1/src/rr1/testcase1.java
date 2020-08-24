@@ -8,6 +8,7 @@ public class testcase1 {
 		System.out.println("second line");
 		System.out.println("third line");
 		System.out.println("forth kine");
+		System.out.println("fifth line");
 	}
 
 }
