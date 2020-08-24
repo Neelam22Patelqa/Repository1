@@ -6,6 +6,8 @@ public class testcase3 {
 		// TODO Auto-generated method stub
 		System.out.println("third project with 3rd testcase");
 		System.out.println("add on one line");
+				System.out.println("add on second line");
+		
 	}
 
 }
