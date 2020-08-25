@@ -7,6 +7,7 @@ public class testcase3 {
 		System.out.println("third project with 3rd testcase");
 		System.out.println("add on one line");
 				System.out.println("add on second line");
+				System.out.println("rainbow");
 		
 	}
 
